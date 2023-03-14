@@ -4,15 +4,15 @@
 
 ### 1. Mô hình hệ thống
 
-![](image/sysfull.png)
+![](image/sysfull_w.png)
 
 ### 2. Hệ thống CA
 
-![](image/ca.png)
+![](image/ca_w.png)
 
 ### 3. Ứng dụng nhắn tin trung gian Konnichiwa
 
-![](image/konnichiwa.png)
+![](image/konnichiwa_w.png)
 
 ### 4. Mã nguồn
 
